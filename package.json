@@ -1,7 +1,7 @@
 {
-  "name": "project-setup-template",
+  "name": "dropdown-menu",
   "version": "1.0.0",
-  "description": "",
+  "description": "dropdown menu",
   "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,7 +10,7 @@
     "deploy": "git subtree push --prefix dist origin gh-pages"
   },
   "keywords": [],
-  "author": "",
+  "author": "bashair (https://github.com/bashair0)",
   "license": "ISC",
   "devDependencies": {
     "@eslint/js": "^9.7.0",
